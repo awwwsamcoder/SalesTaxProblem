@@ -4,7 +4,7 @@ Execution Command
 
 g++ -o main main.cpp Item.cpp Tax.cpp
 ./main
----------------------------------------------------------------------------
+
 Input 
 
 Input 1:
@@ -18,7 +18,7 @@ Output 1:
 1 chocolate bar: 0.85
 Sales Taxes: 1.50
 Total: 29.83
----------------------------------------------------------------------------
+
 Input 2:
 1 imported box of chocolates at 10.00
 1 imported bottle of perfume at 47.50
@@ -28,7 +28,7 @@ Output 2:
 1 imported bottle of perfume: 54.65
 Sales Taxes: 7.65
 Total: 65.15
----------------------------------------------------------------------------
+
 Input 3:
 1 imported bottle of perfume at 27.99
 1 bottle of perfume at 18.99
