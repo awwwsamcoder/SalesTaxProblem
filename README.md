@@ -8,9 +8,9 @@ g++ -o main main.cpp Item.cpp Tax.cpp
 Input 
 
 Input 1:
-1 book at 12.49
-1 music CD at 14.99
-1 chocolate bar at 0.85
+1 book at 12.49 
+1 music CD at 14.99 
+1 chocolate bar at 0.85 
 
 Output 1:
 1 book: 12.49
